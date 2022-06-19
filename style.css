@@ -33,16 +33,8 @@ body {
 }
 
 /* section_left start */
-#goals {
-    width: 100%;
-    height: 200px;
-    margin-bottom: 30px;
-    border: 1px dashed #fff;
-    border-radius: 15px;
-}
-
 #todo {
-    height: 490px;
+    height: 700px;
     padding: 10px;
     border: 1px dashed #fff;
     border-radius: 15px;
